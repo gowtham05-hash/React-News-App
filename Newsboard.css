@@ -1,0 +1,8 @@
+.head{
+    margin-top:70px;
+    margin-left:10px;
+}
+.news-img{
+    height:100%;
+    object-fit: cover;
+}
